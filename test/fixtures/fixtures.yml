@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  fist_team: MyString
+  second_team: MyString
+  location: MyString
+  date: MyString
+
+two:
+  fist_team: MyString
+  second_team: MyString
+  location: MyString
+  date: MyString
